@@ -8,4 +8,5 @@ Methodology:
 <img width="485" alt="image" src="https://github.com/netgvarun2012/BitCointPricePredictor/assets/93938450/1ccb4061-cdac-4272-8c5f-eeaf11282da9">
 
 Refer to notebooks for implementation details.
-Refer to presentation deck for more details.
+
+Refer to presentation deck for more details around theory and overall approach taken.
